@@ -1,0 +1,16 @@
+{
+  "name": "jquery-crc32",
+  "version": "1.0.0",
+  "description": "A jquery plugin for generate crc32 code.",
+  "main": "src/jquery.crc32.min.js",
+  "author": {
+    "name": "Spikef",
+    "email": "Spikef@foxmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.4"
+  }
+}
